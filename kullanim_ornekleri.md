@@ -1,4 +1,9 @@
-# discord-ise-yarar-apiler
-discord bot geliştiricileri için işe yarar güncel apiler
+# Deprem Api v12 Örnek Kullanımı 🏚️
+Gerekli modüller: node-fetch
+Teşekkürler: API Orhan Aydoğdu & KOD PAYLAŞIMI https://codare.fun/ & KOD Efe#2762 (Discord)
 
-# apilerin örnek kullanımları
+🔗 https://sourceb.in/759iaxECaw
+
+
+
+
